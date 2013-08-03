@@ -1,0 +1,19 @@
+{
+  "name": "sg-html-element",
+  "repo": "davidtsuji/sg-html-element",
+  "description": "Tries to return a HTMLElement when given jQuery, dom or normal elements",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {
+    "component/dom": "*",
+    "component/type": "*",
+    "component/assert": "*",
+    "visionmedia/mocha": "*"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
