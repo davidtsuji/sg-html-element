@@ -4,10 +4,11 @@
   "description": "Tries to return a HTMLElement when given jQuery, dom or normal elements",
   "version": "0.0.1",
   "keywords": [],
-  "dependencies": {},
+  "dependencies": {
+    "component/type": "*"
+  },
   "development": {
     "component/dom": "*",
-    "component/type": "*",
     "component/assert": "*",
     "visionmedia/mocha": "*"
   },
